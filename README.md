@@ -1,4 +1,4 @@
-![MayanSpace Logo](\logo\logo_color.png)
+![MayanSpace Logo](/main/logo_color.png)
 
 # MutiverseHackathon
 
