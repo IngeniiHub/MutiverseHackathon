@@ -1,4 +1,4 @@
-![MayanSpace Logo](/main/logo_color.png)
+![MayanSpace Logo](https://github.com/IngeniiHub/MutiverseHackathon/blob/main/logo_color.png)
 
 # MutiverseHackathon
 
